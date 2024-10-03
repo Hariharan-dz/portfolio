@@ -118,7 +118,7 @@ window.addEventListener('scroll', scrollActive)
 
 
 function downloadCV() {
-  window.location.href = 'https://drive.google.com/uc?export=download&id=13CJEMwPnIHEbmu2j_FeLnMxXysDVAGCk';
+  window.location.href = 'https://drive.google.com/uc?export=download&id=1LnC7qGzuUdaM5n-yj3Dzs5xFORLwBkOP';
 }
 
 function scrollToContact() {
